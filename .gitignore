@@ -1,0 +1,8 @@
+.venv/
+yolov8n.pt
+video/
+core/__pycache__/
+*.pyc
+__pycache__/
+.env
+.vscode/

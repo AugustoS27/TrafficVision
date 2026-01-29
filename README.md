@@ -13,8 +13,6 @@
 
 El sistema simula un escenario real de monitoreo de tránsito: procesa un video, detecta y sigue vehículos mediante IA, estima su velocidad a partir de una transformación de perspectiva y persiste los resultados en una base de datos relacional para su análisis posterior en un tablero simple.
 
-> 🎯 **Objetivo académico:** demostrar comprensión de arquitectura de software, concurrencia, manejo de datos y aplicación práctica de modelos de visión por computadora.
-
 ---
 
 ## 2. Demo y Resultados

@@ -57,7 +57,7 @@ graph LR
 1. Clonar el repositorio e instalar dependencias:
 
 ```bash
-git clone https://github.com/TU_USUARIO/TrafficVision.git
+git clone https://github.com/AugustoS27/TrafficVision.git
 cd TrafficVision
 pip install -r requirements.txt
 ```

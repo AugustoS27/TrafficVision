@@ -52,7 +52,7 @@ graph LR
 
 ### Instalación
 
-1. Clonar el repositorio e instalar dependencias:
+1. Clonar el repositorio e instala las dependencias:
 
 ```bash
 git clone https://github.com/AugustoS27/TrafficVision.git

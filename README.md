@@ -11,9 +11,7 @@
 
 **TrafficVision** es un **prototipo académico** desarrollado con fines educativos para integrar conceptos de **Visión Artificial**, **procesamiento de video**, **cálculo físico** e **Ingeniería de Datos**.
 
-El sistema simula un escenario real de monitoreo de tránsito: procesa un video, detecta y sigue vehículos mediante IA, estima su velocidad a partir de una transformación de perspectiva y persiste los resultados en una base de datos relacional para su análisis posterior en un tablero simple.
-
-> 🎯 **Objetivo académico:** demostrar comprensión de arquitectura de software, concurrencia, manejo de datos y aplicación práctica de modelos de visión por computadora.
+El sistema simula un escenario real de monitoreo de tránsito: procesa un video, detecta y sigue vehículos mediante IA, estima su velocidad a partir de una transformación de perspectiva y persiste los resultados en una base de datos relacional para su análisis posterior en un tablero.
 
 ---
 
@@ -174,7 +172,6 @@ Como proyecto académico, se identifican posibles extensiones para una versión 
 - Mejora en el tablero de metricas
 - Exposición de datos mediante una API REST
 - Métricas avanzadas y alertas en tiempo real
-- Evaluar algoritmos como BoT-SORT o DeepSORT que incorporan características visuales (Re-ID).
 
 ---
 
